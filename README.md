@@ -1,0 +1,2 @@
+# Hyperbola_Calculator
+A Java program which takes input for h, k, a², and b² values of a hyperbola. It then calculates and prints out the equation of the hyperbola as well as all details such as the coordinates of the foci and center, the asymptotes and whether it is a vertical or horizontal hyperbola, etc.  This project is mostly complete, but some minor improvements can be made to make it more sophiscated.
