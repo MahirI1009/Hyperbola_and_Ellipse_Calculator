@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /* A hyperbola is a conic section from Mathematics. A hyperbola comes in the standard form of x²/a² - y²/b² = 1.
- * However, the graph of the parabola can change based on the values of x, y, a and b. A hyperbola in standard form
+ * However, the graph of the hyperbola can change based on the values of x, y, a and b. A hyperbola in standard form
  * is horizontal and centered at the origin (0,0). A hyperbola can become vertical in the case that y² and x² swap 
  * places in the equation. A hyperbola is can be horizontally and/or vertically shifted from the origin, when this 
  * happens the hyperbola comes in the form (x-h)²/a² - (y-k)²/b² = 1, with h and k representing the shifts from the
