@@ -3,13 +3,13 @@ import java.util.Scanner;
 /* A hyperbola is a conic section from Mathematics. A hyperbola comes in the standard form of x²/a² - y²/b² = 1.
  * However, the graph of the hyperbola can change based on the values of x, y, a and b. A hyperbola in standard form
  * is horizontal and centered at the origin (0,0). A hyperbola can become vertical in the case that y² and x² swap 
- * places in the equation. A hyperbola is can be horizontally and/or vertically shifted from the origin, when this 
+ * places in the equation. A hyperbola can be horizontally and/or vertically shifted from the origin, when this 
  * happens the hyperbola comes in the form (x-h)²/a² - (y-k)²/b² = 1, with h and k representing the shifts from the
  * x and y axes respectively. The graphs of hyperbolas have many properties such as the vertices, the foci and the 
- * asymptotes. This program asks the user whether for the a² and b² values of the hyperbola, it also asks for the 
- * h and k values if the user specifies that the hyperbola is not centered at the origin. I have created a hyperbola
+ * asymptotes. This program asks the user for the a² and b² values of the hyperbola, it also asks for the 
+ * h and k values if the user specifies that the hyperbola is not centered at the origin. - I have created a hyperbola
  * class for this program, it contains two constructors, one for if the hyperbola is centered at the origin and one if
- * it isn't. The program lastly asks if the x² comes for in the equation or not, so as to know whether or not the 
+ * it isn't. - The program lastly asks if the x² comes for in the equation or not, so as to know whether or not the 
  * hyperbola is vertical or not. Then a hyperbola object is instantiated with the x and y values and a boolean value
  * that is set to true if x² comes first in the equation. The hyperbola is instantiated with a different constructor
  * that also sends the h and k values as parameters if the hyperbola is shifted from the origin. Once this is done, 
